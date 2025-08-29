@@ -1,0 +1,5 @@
+{
+  "name": "Wardley Map Generator",
+  "description": "An interactive tool to create, edit, and share Wardley Maps for strategic analysis and planning. All maps are saved in your browser.",
+  "requestFramePermissions": []
+}
